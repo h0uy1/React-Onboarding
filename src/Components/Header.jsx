@@ -1,8 +1,8 @@
 const Header = ({className}) => {
   return (
-    <h1 className={className}>
-        Welcome to grid page!!
-    </h1>
+    <h3 className={className}>
+        Latest News
+    </h3>
   )
 }
 
